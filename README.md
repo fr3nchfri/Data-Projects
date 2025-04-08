@@ -1,5 +1,5 @@
 # Data-Projects
-Professional portfolio projects in the business analytics/data science sphere
+Business Analytics Degree Projects
 
 -----
 (Automating Business Processes - Final Project)
