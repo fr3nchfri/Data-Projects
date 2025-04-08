@@ -2,8 +2,8 @@
 Business Analytics Degree Projects
 
 -----
-(Automating Business Processes - Final Project)
-
+(Automating Business Processes - Titanic Analysis - Final Project)
 -----
+
 
 
